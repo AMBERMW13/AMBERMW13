@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMBERMW13
-- 👀 I’m interested in technical writing, web development, painting, crafting, and hiking!
+- 👀 I’m interested in technical writing and web development!
 - 🌱 I’m currently learning JavaScript.
 
 <!---

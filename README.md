@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMBERMW13
-- 👀 I’m interested in technical writing and web development!
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in technical writing and web development
+- 🌱 I’m currently learning JavaScript
 
 <!---
 AMBERMW13/AMBERMW13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

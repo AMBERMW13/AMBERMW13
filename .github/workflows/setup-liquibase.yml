@@ -33,10 +33,15 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-    steps:
-- uses: actions/checkout@v4
-- uses: liquibase/setup-liquibase@v2
-  with:
-    version: '4.32.0'
-    edition: 'oss'
-- run: liquibase --version
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it          
+      - uses: actions/checkout@v4
+      
+      # Setup Liquibase
+      - uses: liquibase/setup-liquibase@v2
+        with:
+          version: '5.0.0'
+          edition: 'secure'
+          
+      # Verify Liquibase installation
+      - run: liquibase --version

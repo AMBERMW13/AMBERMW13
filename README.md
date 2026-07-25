@@ -3,9 +3,7 @@
 I write developer documentation that help users move fast and build with confidence that people actually enjoy using. 
 At Liquibase, that means CLI reference docs, changelog and
 schema-change documentation, and release notes for a product whose entire job
-is tracking *what changed, when, and what you need to do about it* — which is
-the same problem I'd want to solve for API partners: docs and change
-communication as one connected surface, not two separate jobs.
+is tracking *what changed, when, and what you need to do about it*
 
 ## What I own
 

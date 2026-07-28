@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Amber Williams — Senior Technical Writer, Liquibase
 
-I write developer documentation that help users move fast and build with confidence that people actually enjoy using. 
+I write developer documentation that help users move fast and build with confidence. 
 At Liquibase, that means CLI reference docs, changelog and
 schema-change documentation, and release notes for a product whose entire job
 is tracking *what changed, when, and what you need to do about it*
